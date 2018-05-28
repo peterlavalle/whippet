@@ -7,3 +7,9 @@ This is a [Entity-Component-System][wikiECS] container.
 There are unit tests written against Google Test 1.8.0 which may clarify usage.
 
 [wikiECS]: https://en.wikipedia.org/wiki/Entity%E2%80%93component%E2%80%93system
+
+
+... oh hai; moar?
+
+https://peterlavalle.github.io/whippet/
+https://peterlavalle.github.io/post/whippet/
